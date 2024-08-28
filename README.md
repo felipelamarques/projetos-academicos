@@ -1,1 +1,1 @@
-Projeto Integrado Multidisciplinar (PIM) do 2º Período do Curso Superior Tecnológico em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP).
+Projetos Integrados Multidisciplinares (PIM) do Curso Superior Tecnológico em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP).
